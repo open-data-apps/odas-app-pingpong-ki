@@ -52,3 +52,7 @@ Inhaltsbereich wird in app.js erstellt. Ihr kann der eigene Code implementiert w
 ## Autor
 
 (C) 2025, Ondics GmbH
+
+## Lizenz
+
+Der App-Code steht unter der [MIT-Lizenz](LICENSE), © 2025 Ondics GmbH. Daten und Bilder aus den angebundenen Quellen behalten die Rechte der jeweiligen Quelle; die MIT-Lizenz gilt nicht für sie.

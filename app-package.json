@@ -3,7 +3,7 @@
   "app-entwickler-name": "ondics-gmbh",
   "name-in-url": "ping-pong-ki",
   "name": "Ping Pong KI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "odas-app-icon": "assets/odas-app-icon.svg",
   "app-icon": "assets/app-icon.png",
   "kurzbeschreibung": "Diese Open Data App wurde mit KI erstellt, es ist ein Ping Pong Spiel für einen Spieler",
@@ -27,7 +27,7 @@
     "lizenz": {
       "label": "Lizenz",
       "hilfe": "Angabe der Lizenz, die für die Nutzung der App gilt.",
-      "default": "Open Software License (OSL)",
+      "default": "MIT License",
       "format": {
         "typ": "string",
         "laenge": 50
